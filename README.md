@@ -1,5 +1,5 @@
 # Ableton-MIDI-to-FastLED
-Arduino code that reads MIDI data from Ableton (should work in any DAW) and outputs scenes on an LED strip using FastLED (neopixel, WS2812B, etc.)
+Arduino code that reads MIDI data from Ableton (should work in any DAW) and outputs scenes on an LED strip using FastLED. (neopixel, WS2812B, etc.) This can be used for a lot of things but what I used it for is creating custom stage lights for my band to use at our concerts.
 
 ### an example of this working:
 https://www.tiktok.com/@jeremyboyum/video/7088371054233652522?is_from_webapp=1&sender_device=pc&web_id=7057303959291872774
