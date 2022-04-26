@@ -9,9 +9,10 @@ This Arduino code requires the use of the [Processing IDE](https://processing.or
 The Processing code from [Yearnings](https://github.com/yearnings/MidiToNeopixel/tree/main/Processing/MidiToSerial) will also be required for this to work and I highly recommend watching their YouTube tutorial: https://www.youtube.com/watch?v=5VdeOb7PoQc
 
 ## Software used
-### Processing + TheMidiBus
+### Processing + TheMidiBus + Yearnings core code
 * [Download the Processing IDE here](https://processing.org/download)
 * [The MIDIBUS library](http://www.smallbutdigital.com/projects/themidibus/) (available via the processing libraries window)
+* [Yearnings core Code](https://github.com/yearnings/MidiToNeopixel/tree/main/Processing/MidiToSerial) 
 
 ### Arduino + FastLED
 * [Download the Arduino IDE here](https://www.arduino.cc/en/software)
